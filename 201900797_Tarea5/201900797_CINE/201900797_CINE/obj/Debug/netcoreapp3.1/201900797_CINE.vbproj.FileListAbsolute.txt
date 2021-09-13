@@ -1,0 +1,15 @@
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\201900797_CINE.vbproj.AssemblyReference.cache
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\_201900797_CINE.Form1.resources
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\201900797_CINE.vbproj.GenerateResource.cache
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\201900797_CINE.AssemblyInfoInputs.cache
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\201900797_CINE.AssemblyInfo.vb
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\201900797_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\bin\Debug\netcoreapp3.1\201900797_CINE.exe
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\bin\Debug\netcoreapp3.1\201900797_CINE.deps.json
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\bin\Debug\netcoreapp3.1\201900797_CINE.runtimeconfig.json
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\bin\Debug\netcoreapp3.1\201900797_CINE.runtimeconfig.dev.json
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\bin\Debug\netcoreapp3.1\201900797_CINE.dll
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\bin\Debug\netcoreapp3.1\201900797_CINE.pdb
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\201900797_CINE.dll
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\201900797_CINE.pdb
+C:\Users\dguer\source\repos\201900797_CINE\201900797_CINE\obj\Debug\netcoreapp3.1\201900797_CINE.genruntimeconfig.cache
